@@ -26,15 +26,21 @@ curl -sO https://raw.githubusercontent.com/DillLabs/launch-dill-node/main/dill.s
 Option 1: The mnemonic will be automatically saved to /root/dill/validator_keys/.... Please back up the validator_keys folder to your local machine after you have successfully run the node.
 
 Option 2: You will need to back up your existing mnemonic yourself.
+
+
 ![image](https://github.com/user-attachments/assets/7eeea2a8-fe02-46ce-b30a-28d59cc05030)
+
+
 3. Please choose an option for deposit token amount [1, 3600, 2, 36000]:
 Option 1: 3600 for light node Option 2: 36000 for full node
 
 4. Please enter your withdrawal address:
 You can use any wallet as long as you have the mnemonic for it. Suggestion: you can use a staking wallet.
-
 Fill evm wallet & click enter.
+
+
 ![image](https://github.com/user-attachments/assets/542b3ee5-f42c-464d-b1c2-d9250ce28e8d)
+
 
 5. Verify Node is Running
 Run the following command to check if the node is up and running:
