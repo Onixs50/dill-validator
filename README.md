@@ -71,4 +71,7 @@ cd ~ && cd $HOME/dill
 ```bash
 ./2_add_validator.sh
 ```
-
+*View the public key of the validators*
+```bash
+./show_pubkey.sh
+```
