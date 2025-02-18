@@ -1,5 +1,5 @@
 # dill-validator
-*first do the galex task*
+*first do the galex task.*
 *Reach Level 6 in the Discord*
 *Join [Galxe](https://app.galxe.com/quest/Dill/GCVWntghfL) first and be active in Discord to get Andes role.*
 ![image](https://github.com/user-attachments/assets/ba253739-4992-455b-bb36-338de803e047)
